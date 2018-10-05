@@ -1,0 +1,29 @@
+{
+  "name": "mon_site",
+  "version": "1.0.0",
+  "description": "mon super site",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "webdriverio": "^4.13.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMatly/mon_site.git"
+  },
+  "author": "Matly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MMatly/mon_site/issues"
+  },
+  "homepage": "https://github.com/MMatly/mon_site#readme"
+}
